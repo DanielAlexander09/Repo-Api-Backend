@@ -1,4 +1,4 @@
-# 📚 Backend - API Proxy en .NET 6 (Clean Architecture)
+# 📚 Backend - API Proxy en .NET 8 (Oneom Architecture)
 
 Este proyecto es una API REST desarrollada en **C# .NET 6** que actúa como un **proxy** entre el frontend y la API externa [FakeRestAPI](https://fakerestapi.azurewebsites.net/index.html). Está estructurada utilizando **Clean Architecture**, promoviendo una separación clara de responsabilidades y un código mantenible y escalable.
 
